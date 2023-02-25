@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978229429367",
+    "project_id": "lifetogetherplus",
+    "storage_bucket": "lifetogetherplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978229429367:android:56fa12509918bb524af272",
+        "android_client_info": {
+          "package_name": "com.tablet.oldOrcProductions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978229429367-ep1feai47jqhjog1o4npfofj63j3g3s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMhm723cGhVsaA0YjlD3qGb_F9RroIh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978229429367-ep1feai47jqhjog1o4npfofj63j3g3s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
